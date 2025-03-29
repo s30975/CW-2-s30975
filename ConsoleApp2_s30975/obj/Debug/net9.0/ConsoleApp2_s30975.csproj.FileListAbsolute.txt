@@ -1,0 +1,4 @@
+D:\studia\Trzeci rok\ABPD\ZAD2\ConsoleApp2_s30975\ConsoleApp2_s30975\obj\Debug\net9.0\ConsoleApp2_s30975.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\Trzeci rok\ABPD\ZAD2\ConsoleApp2_s30975\ConsoleApp2_s30975\obj\Debug\net9.0\ConsoleApp2_s30975.AssemblyInfoInputs.cache
+D:\studia\Trzeci rok\ABPD\ZAD2\ConsoleApp2_s30975\ConsoleApp2_s30975\obj\Debug\net9.0\ConsoleApp2_s30975.AssemblyInfo.cs
+D:\studia\Trzeci rok\ABPD\ZAD2\ConsoleApp2_s30975\ConsoleApp2_s30975\obj\Debug\net9.0\ConsoleApp2_s30975.csproj.CoreCompileInputs.cache
